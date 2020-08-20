@@ -1,0 +1,12 @@
+{
+    "name": "com.twitchlib.unity",
+    "displayName": "TwitchLib.Unity",
+    "version": "1.0.0",
+    "unity": "2017.1",
+    "description": "Package wrapper for https://github.com/TwitchLib/TwitchLib.Unity",
+    "dependencies": {},
+	"author": {
+		"name": "twitchlib"
+	},
+	"type": "library"
+}

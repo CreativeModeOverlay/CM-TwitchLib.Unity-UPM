@@ -1,0 +1,9 @@
+[submodule "Runtime/TwitchLib.Client"]
+	path = Runtime/TwitchLib.Client
+	url = ../CM-TwitchLib.Client.git
+[submodule "Runtime/TwitchLib.Api"]
+	path = Runtime/TwitchLib.Api
+	url = ../CM-TwitchLib.Api.git
+[submodule "Runtime/TwitchLib.PubSub"]
+	path = Runtime/TwitchLib.PubSub
+	url = ../CM-TwitchLib.PubSub.git
